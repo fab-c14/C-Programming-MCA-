@@ -29,5 +29,5 @@ Before you begin, ensure you have met the following requirements:
    ```
    g++ -o output_program_name source_file.cpp
    ```
-> Note that there are some `C` Files Where you need to user `gcc` compiler and some are `c++` files where you need `g++` compiler (for windows) and i don't know about linux, here is a link [run program in linux](https://www.geeksforgeeks.org/how-to-compile-and-run-a-c-c-code-in-linux/)
+> Note that there are some `C` Files Where you need to use `gcc` compiler and some are `c++` files where you need `g++` compiler (for windows) and i don't know about linux, here is a link [run program in linux](https://www.geeksforgeeks.org/how-to-compile-and-run-a-c-c-code-in-linux/)
 
