@@ -1,0 +1,4 @@
+.\a.exe 
+argu1 
+agru2 
+argu3 
